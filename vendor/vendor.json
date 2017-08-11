@@ -1,0 +1,25 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "7DxViusFRJ7UPH0jZqYatwDrOkY=",
+			"path": "github.com/elazarl/go-bindata-assetfs",
+			"revision": "30f82fa23fd844bd5bb1e5f216db87fd77b5eb43",
+			"revisionTime": "2017-02-27T21:27:28Z"
+		},
+		{
+			"checksumSHA1": "unWfnXxDCHKFP/CdJrK3mgti3qQ=",
+			"path": "github.com/gm42/log4go",
+			"revision": "c896dec3e541e51a001ef2477b8232278ce94bf8",
+			"revisionTime": "2017-08-11T11:19:48Z"
+		},
+		{
+			"checksumSHA1": "mC+3CrCiG4P9dfrmeshSIhBDe2c=",
+			"path": "github.com/tyranron/daemonigo",
+			"revision": "d1b05b022d4aefbb5992663aef3c2de1db7034dc",
+			"revisionTime": "2015-01-02T14:54:53Z"
+		}
+	],
+	"rootPath": "github.com/gregpechiro/sizeof"
+}

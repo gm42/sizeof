@@ -6,7 +6,7 @@ import (
 
 	"github.com/gregpechiro/sizeof/internal/log/filelog"
 
-	l4g "code.google.com/p/log4go"
+	l4g "github.com/gm42/log4go"
 )
 
 // Relative path (from application root) to file
